@@ -1,0 +1,15 @@
+{
+  "name": "epeexpress",
+  "version": "1.0.0",
+  "description": "For Restfull API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Miguel Abella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lorem-ipsum": "^1.0.4"
+  }
+}
